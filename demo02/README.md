@@ -1,5 +1,5 @@
 ## Spring Security
-###Spring Security简介
+### Spring Security简介
 spring security的核心功能包括：
 + 认证
 + 授权
