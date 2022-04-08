@@ -23,3 +23,8 @@ spring security的核心功能包括：
    + 一是拦截用户登录请求的Filter，继承UsernamePasswordAuthenticationFilter类，从请求中获取用户信息，并且验证登录
    + 另一个是认证权限的Filter，继承BasicAuthenticationFilter，主要用于判断当前用户是否有权限去访问某个资源
 5. 编写Security的基本配置类，继承WebSecurityConfigurerAdapter
+
+### 参考博文
+https://blog.csdn.net/qq_41463655/article/details/107279778
+https://www.jianshu.com/p/d5ce890c67f7  强烈推荐看一看
+https://github.com/echisan/springboot-jwt-demo/blob/master/blog_content.md
