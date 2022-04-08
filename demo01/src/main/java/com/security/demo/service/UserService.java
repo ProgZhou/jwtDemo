@@ -8,4 +8,8 @@ import com.security.demo.bean.User;
  * @createTime 2022/04/06
  */
 public interface UserService extends IService<User> {
+
+    //用户登录检查
+
+
 }
