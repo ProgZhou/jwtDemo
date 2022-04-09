@@ -7,5 +7,5 @@ import com.security.demo.bean.User;
  * @author ProgZhou
  * @createTime 2022/04/07
  */
-public interface UserService extends IService<User> {
+public interface UserService extends IService<User>{
 }
